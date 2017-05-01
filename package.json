@@ -1,0 +1,27 @@
+{
+  "name": "express-restaurant",
+  "version": "1.0.0",
+  "description": "restaurant back-end",
+  "main": "reservations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asconwe/express-restaurant.git"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "August",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asconwe/express-restaurant/issues"
+  },
+  "homepage": "https://github.com/asconwe/express-restaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
